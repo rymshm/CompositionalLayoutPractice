@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CompositionalLayoutPractice
 //
-//  Created by mashima.ryo on 2023/02/10.
+//  Created by Ryo Mashima on 2023/02/10.
 //
 
 import UIKit
